@@ -1,0 +1,35 @@
+{
+	margin:1;
+	padding:1;
+	box-sizing: border-box;
+   }
+ body{
+ 	height: 1300px;
+ 	background-image: url(fondos.jpg);	
+ 	position: relative;
+   background-size: cover;
+   background-position: center;
+    	background-attachment: fixed;
+
+ 	  }
+ 	  
+	.profe
+	{ background-color:#FFFFFF;	
+        position: relative;
+		width:60%;
+		margin:20px auto;
+		padding:20px;
+		box-sizing:border-box;
+		border:solid 0px black; 
+	}
+	.nombres
+	{ 
+		background-color:#45C1D5;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 0px black; 
+	
+}   

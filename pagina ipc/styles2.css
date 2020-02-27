@@ -1,0 +1,42 @@
+{
+	margin:1;
+	padding:1;
+	box-sizing: border-box;
+   }body{
+ 	height: 1300px;
+ 	background-color:#1C31E3;	
+ 	position: relative;
+ 	 	background-attachment: fixed;
+
+		
+ 	  }
+ 	  .carreras
+	{ 
+		background-color:#45C1D5;	
+        position: relative;
+		width:60%;
+		margin:20px auto;
+		padding:20px;
+		box-sizing:border-box;
+		border:solid 0px black; 
+		 	  }
+		 	  .planes{
+		background-color:#9DABB8;
+        position: relative;
+		width:70%;
+		margin:20px auto;
+		padding:20px;
+		box-sizing:border-box;
+		border:solid 0px black; 
+		}.diver{
+		background-color:#45C1D5;
+        position: relative;
+		width:70%;
+		margin:20px auto;
+		padding:20px;
+		box-sizing:border-box;
+		border:solid 0px black; 
+		}
+
+
+

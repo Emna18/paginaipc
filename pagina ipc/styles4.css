@@ -1,0 +1,63 @@
+{
+margin:1;
+	padding:1;
+	box-sizing: border-box;
+   }
+ body{
+ 	height: 1300px;
+ 	background-color:#1C31E3;	
+ 	position: relative;
+		 	background-attachment: fixed;
+
+ 	  
+	}
+	.cuerpo2
+	{ 
+		background-color:#1CCEE3;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black; 
+	}
+	.electronica
+	{ 
+		background-color:#1CCEE3;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black; 
+	}
+	.datos
+	{ 
+		background-color:#1CCEE3;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black; 
+    }
+    .diseño
+	{ 
+		background-color:#1CCEE3;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black;
+	} 
+    .redes
+	{ 
+		background-color:#1CCEE3;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black;
+    }
